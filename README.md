@@ -2,7 +2,7 @@
 
 To perform the analyses presented in the manuscript, we first merged raw data from several sources referenced in the Acknowledgements and Supplemental Materials. Data from WellDatabase and Enverus (formerly Drillinginfo) were obtained from these companies by license agreements for non-commercial use. The other data can be downloaded for free. The Stata code provided under 1) below produces two merged datasets based on which the analyses are performed. The Stata code provided under 4) below produces the estimates and tables, based on which we construct the figures presented in the manuscript. We used Stata MP – Parallel Edition 14.2 to perform the analyses.
 
-The Github folder contains:
+The directory additional_materials contains:
 
 1) Stata code converting the raw data into the datasets 2) and 3) (“0.do” – “5.do”)
 
