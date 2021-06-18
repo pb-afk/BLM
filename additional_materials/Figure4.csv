@@ -1,0 +1,17 @@
+obs_type,chem,model_pa_1,model_all_1
+coeff,Barium,0.01674,0.01585
+sd,Barium,0.01915,0.00788
+Observations,Barium,77936.00000,181866.00000
+R_squared,Barium,0.83400,0.90700
+coeff,Bromide,-0.00464,-0.00577
+sd,Bromide,0.01295,0.00845
+Observations,Bromide,109362.00000,190514.00000
+R_squared,Bromide,0.88500,0.94300
+coeff,Chloride,0.02656,0.02044
+sd,Chloride,0.01264,0.01005
+Observations,Chloride,207121.00000,394798.00000
+R_squared,Chloride,0.93600,0.95400
+coeff,Strontium,0.02103,0.02014
+sd,Strontium,0.01227,0.01188
+Observations,Strontium,157056.00000,184035.00000
+R_squared,Strontium,0.95600,0.96100
